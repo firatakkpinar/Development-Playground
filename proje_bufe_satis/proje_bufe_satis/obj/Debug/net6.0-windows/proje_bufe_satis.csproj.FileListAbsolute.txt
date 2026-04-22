@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\bin\Debug\net6.0-windows\proje_bufe_satis.exe
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\bin\Debug\net6.0-windows\proje_bufe_satis.deps.json
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\bin\Debug\net6.0-windows\proje_bufe_satis.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\bin\Debug\net6.0-windows\proje_bufe_satis.dll
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\bin\Debug\net6.0-windows\proje_bufe_satis.pdb
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\obj\Debug\net6.0-windows\proje_bufe_satis.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\obj\Debug\net6.0-windows\proje_bufe_satis.Form1.resources
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\obj\Debug\net6.0-windows\proje_bufe_satis.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\obj\Debug\net6.0-windows\proje_bufe_satis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\obj\Debug\net6.0-windows\proje_bufe_satis.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\obj\Debug\net6.0-windows\proje_bufe_satis.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\obj\Debug\net6.0-windows\proje_bufe_satis.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\obj\Debug\net6.0-windows\proje_bufe_satis.dll
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\obj\Debug\net6.0-windows\refint\proje_bufe_satis.dll
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\obj\Debug\net6.0-windows\proje_bufe_satis.pdb
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\obj\Debug\net6.0-windows\proje_bufe_satis.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\C# Projeler\proje_bufe_satis\proje_bufe_satis\obj\Debug\net6.0-windows\ref\proje_bufe_satis.dll
